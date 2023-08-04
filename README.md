@@ -25,7 +25,7 @@ Configurating the script
     hokey = [] => put here the keys you want to press to get the text translated
 
 
-# Inserting the script into the auto startup apps folder
+### Inserting the script into the auto startup apps folder
 
     put the script.py into %APPDATA%/Microsoft/Windows/Start Menu/Programs/Startup folder
 
