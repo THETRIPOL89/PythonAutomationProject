@@ -1,1 +1,54 @@
-# PythonAutomationProject
+# Automatically translate text with Python
+
+With this python script, you can automatically translate text from every language to english with just a blink.
+
+## Getting Started
+
+This script will run on startup and will wait for the *hotkey event*. Once you press the keys established in the configuration part of the script, the text you have selected will be translated in english.
+
+### Prerequisites
+
+Python requirements: 
+- [pyautogui](https://pypi.org/project/PyAutoGUI/)
+- [Deep Translator](https://pypi.org/project/deep-translator/)
+
+### Installing
+
+A step by step installing guide
+
+Python requirements installation
+
+    pip3 install -r requirements.txt
+
+Configurating the script
+
+    hokey = [] => put here the keys you want to press to get the text translated
+
+
+# Inserting the script into the auto startup apps folder
+
+    put the script.py into %APPDATA%/Microsoft/Windows/Start Menu/Programs/Startup folder
+
+## Made With
+
+  - [Python 3.11](https://www.python.org/)
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
+of conduct, and the process for submitting pull requests to us.
+
+## Version
+
+Version 1.040823
+
+## Authors
+
+  - **Federico Lenzi** -
+    [thetripol89](https://github.com/thetripol89)
+
+## License
+
+This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
+Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
+details
