@@ -31,7 +31,7 @@ Configurating the script
 
 ## Built With
 
-  - [![Python][Python-]][https://www.python.org/]
+  - [Python-](https://www.python.org/)
 
 ## Contributing
 
