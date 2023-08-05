@@ -1,3 +1,5 @@
+[Python]:"https://www.geekandjob.com/uploads/wiki/64f36195573eec62511adc821d374ceb3619b37f.png"
+
 # Automatically translate text with Python
 
 With this python script, you can automatically translate text from every language to english in just a blink.
@@ -27,11 +29,11 @@ Configurating the script
 
 ### Inserting the script into the auto startup apps folder
 
-    put the script.py into %APPDATA%/Microsoft/Windows/Start Menu/Programs/Startup folder
+    put the script.py into "%APPDATA%/Microsoft/Windows/Start Menu/Programs/Startup" folder
 
-## Made With
+## Built With
 
-  - [Python 3.11](https://www.python.org/)
+  - [![Python][Python]][https://www.python.org/]
 
 ## Contributing
 
