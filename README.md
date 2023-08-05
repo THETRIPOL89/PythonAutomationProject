@@ -1,11 +1,14 @@
+<div align="center">
+  <img src="PythonTranslator.pgn" alt="logo" width="200" height="auto" />
+</div>
+
 <h1 align="center">Automatically translate text with Python</h1>
 
 <div align="center">
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
-  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/THETRIPOL89/PythonAutomationProject/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/THETRIPOL89/PythonAutomationProject/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/THETRIPOL89/PythonAutomationProject/LICENSE)
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/THETRIPOL89/PythonAutomationProject/LICENSE.md)
 
 </div>
 
