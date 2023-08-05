@@ -1,5 +1,3 @@
-[Python]:"https://www.geekandjob.com/uploads/wiki/64f36195573eec62511adc821d374ceb3619b37f.png"
-
 # Automatically translate text with Python
 
 With this python script, you can automatically translate text from every language to english in just a blink.
@@ -33,7 +31,7 @@ Configurating the script
 
 ## Built With
 
-  - [![Python][Python]][https://www.python.org/]
+  - [![Python][Python-]][https://www.python.org/]
 
 ## Contributing
 
@@ -54,3 +52,5 @@ Version 1.040823
 This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
 Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
 details
+
+[Python-]:"https://www.geekandjob.com/uploads/wiki/64f36195573eec62511adc821d374ceb3619b37f.png"
