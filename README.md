@@ -8,7 +8,7 @@
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/THETRIPOL89/PythonAutomationProject/pulls)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/THETRIPOL89/PythonAutomationProject/LICENSE.md)
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/THETRIPOL89/PythonAutomationProject/blob/main/LICENSE.md)
 
 </div>
 
