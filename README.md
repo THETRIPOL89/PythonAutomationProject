@@ -1,6 +1,17 @@
 # Automatically translate text with Python
 
-With this python script, you can automatically translate text from every language to english in just a blink.
+<div align="center">
+
+  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
+  [![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/THETRIPOL89/PythonAutomationProject/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/THETRIPOL89/PythonAutomationProject/pulls)
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/THETRIPOL89/PythonAutomationProject/LICENSE)
+
+</div>
+
+---
+
+<p align="center">With this python script, you can automatically translate text from every language to english in just a blink.</p>
 
 ## Getting Started
 
@@ -31,7 +42,7 @@ Configurating the script
 
 ## Built With
 
-  - <img align="left" alt="Python" width="26px" src="https://www.geekandjob.com/uploads/wiki/64f36195573eec62511adc821d374ceb3619b37f.png" />
+  - <img align="left" alt="Python" width="26px" src="https://www.geekandjob.com/uploads/wiki/64f36195573eec62511adc821d374ceb3619b37f.png"/>
 
 ## Contributing
 
