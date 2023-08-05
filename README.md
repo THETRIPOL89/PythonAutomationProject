@@ -1,4 +1,4 @@
-# Automatically translate text with Python
+<h3 align="center">Automatically translate text with Python</h3>
 
 <div align="center">
 
