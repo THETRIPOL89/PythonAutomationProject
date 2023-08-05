@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="PythonTranslator.png" alt="logo" width="200" height="auto" />
+  <img src="PythonTranslator (1).png" alt="logo" width="200" height="auto" />
 </div>
 
 <h1 align="center">Automatically translate text with Python</h1>
