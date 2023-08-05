@@ -47,11 +47,6 @@ Configurating the script
 
   - <img align="left" alt="Python" width="26px" src="https://www.geekandjob.com/uploads/wiki/64f36195573eec62511adc821d374ceb3619b37f.png"/>
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
-
 ## Version
 
 Version 1.040823
