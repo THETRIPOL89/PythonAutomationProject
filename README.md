@@ -31,7 +31,7 @@ Configurating the script
 
 ## Built With
 
-  - ![Python-](https://www.python.org/)
+  - <img align="left" alt="Python" width="26px" src="https://www.geekandjob.com/uploads/wiki/64f36195573eec62511adc821d374ceb3619b37f.png" />
 
 ## Contributing
 
