@@ -1,6 +1,6 @@
 # Automatically translate text with Python
 
-With this python script, you can automatically translate text from every language to english with just a blink.
+With this python script, you can automatically translate text from every language to english in just a blink.
 
 ## Getting Started
 
